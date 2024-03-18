@@ -1,0 +1,1 @@
+# Hackerrank-Solution-Inheritance2
